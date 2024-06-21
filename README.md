@@ -1,6 +1,9 @@
 Архитектура приложения
+
 Структура директорий и файлов
+
 /ShogoTest
+
 |-- /controllers
 |   |-- ProductController.php
 |   |-- UserController.php
